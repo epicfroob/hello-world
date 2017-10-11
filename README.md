@@ -1,2 +1,3 @@
 # hello-world
-basic hello world to see how this is done
+
+hello, I'm Jack and it's a tad odd if your reading this.
